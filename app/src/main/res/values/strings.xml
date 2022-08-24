@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Quiz Mobile</string>
+    <string name="keywordField">Mots clé</string>
+    <string name="submitButton">Submit</string>
+</resources>
